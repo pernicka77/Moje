@@ -1,0 +1,2 @@
+# Moje
+Kod za seminarski
